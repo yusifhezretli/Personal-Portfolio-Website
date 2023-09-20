@@ -1,0 +1,176 @@
+@media only screen and (min-width: 280px) and (max-width: 600px) {
+    .navbar{
+        display: none;
+        
+    }
+    .portfoilo h1{
+        font-size: 30px;
+        width: 312px;
+        height: 120px;
+        
+        
+        
+    
+    
+    }
+    .portfoilo{
+        flex-direction:column-reverse;
+    }
+    .portfoilo spam{
+        color: #FF8A56;
+    }
+    .portfoilo p{
+        color: #666666;
+        font-size: 22px;
+        position: relative;
+        bottom: 30px;
+        
+    }
+    .right-img{
+        position: relative;
+       
+       
+        width: 400px;
+    }
+    .cv-btn{
+        color: #000000;
+        font-size: 22px;
+       position: relative;
+       top: 40px;
+       right: 30px;
+        text-decoration: none;
+    }
+    .btn{
+        color: aliceblue;
+        font-size: 20px;
+        width: 160px;
+        height: 68px;
+        background-color: #000000;
+    }
+    .cv-img{
+      padding-left: 10px;
+    }
+    .portfoilo-down span{
+    
+   
+   
+        padding-bottom: 200px;
+        font-size: 29px;
+        position: relative;
+        
+        color: #000000;
+       bottom: 21px;
+    }
+    .list-title h1{
+        padding-top: 25px;
+        
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 1px;
+    text-align: center;
+    
+    }
+    .list{
+        display: flex;
+        justify-content: space-between;
+        padding: 3rem 5rem;
+       
+        flex-direction: column;
+    }
+     li{
+        list-style-type: square;
+        margin-left: 25px;
+        margin-top: 14px;
+        font-weight: bold;
+    
+    }
+    u,h3,p{
+        margin-top: 20px;
+    }
+    p{
+        color: #666666;
+     
+    
+    }
+    .side{
+        padding-top: 50px;
+    }
+    .Projects{
+         flex-direction: column;
+        padding: 1rem 6rem;
+       padding-top:150px ;
+    
+    
+    }
+    .Projects span{
+        color: #B16CEA;
+        
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 4px;
+    text-align: left;
+    
+    }
+    .Projects h2{
+        padding-top: 20px;
+        color: #000;
+    font-size: 25px;
+    font-weight: 700;
+    width: 300px;
+    height: 100px;
+   
+    letter-spacing: 1px;
+   
+    
+    
+    }
+    .Projects button{
+        width: 201px;
+    height: 58px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 17px;
+    
+    
+    }
+    .Projects .right-side{
+        padding-top: 20px;
+    
+    }
+    .project-cards{
+        flex-direction: column;
+        padding: 1rem 6rem;
+       
+    }
+    .card-button {
+       background: none;
+        
+
+
+     }
+     .Blogs-section{
+        position: relative;
+        top: 100px;
+        flex-direction: column;
+        width: 440px;
+        height: 1637px;
+     }
+     .right-blog{
+        position: relative;
+        top: 250px;
+        right: 150px;
+        
+     }
+     .right-blog p{
+        color: #FFFFFF;
+    
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+
+     }
+    
+}
