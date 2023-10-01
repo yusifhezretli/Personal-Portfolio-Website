@@ -1113,7 +1113,7 @@ font-weight: 401;
     display: block;
    padding: 1rem 0rem;
 }
- .gmail-section .letter-logo {
+ .letter-logo {
     margin-top: 2rem;
     width: 20px;
 }
@@ -1129,10 +1129,10 @@ font-weight: 401;
     padding-left: 4rem;
     padding-top: 1.7rem;
 }
- .last-links {
+footer .links {
     margin: 5rem 6.7rem;
 }
- .last-links a {
+footer .links a {
     text-decoration: none;
     color: #8a95ad;
     padding-left: 7px;
