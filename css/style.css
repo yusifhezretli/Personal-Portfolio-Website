@@ -11,6 +11,11 @@ header{
     justify-content: space-between;
     padding: 1rem 6rem;
 }
+header .icon{
+    display: none;
+    padding-top: 10px;
+    padding-left: 140px;
+}
 .navbar{
     padding: 7px 6px;
 }

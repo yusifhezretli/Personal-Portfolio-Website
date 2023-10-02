@@ -3,16 +3,19 @@
         display: none;
         
     }
+    header .icon{
+        display: block;
+    }
     .portfoilo h1{
         font-size: 30px;
         width: 312px;
         height: 120px;
-        
-        
-        
-    
     
     }
+    header .logo{
+        margin-left: -80px;
+      }
+      
     .portfoilo{
         flex-direction:column-reverse;
     }
@@ -20,25 +23,17 @@
         color: #FF8A56;
     }
     .portfoilo p{
-        color: #666666;
-        font-size: 22px;
-        position: relative;
-        bottom: 30px;
+        margin-bottom: 40px;
         
     }
     .right-img{
-        position: relative;
-       
-       
         width: 400px;
     }
     .cv-btn{
-        color: #000000;
-        font-size: 22px;
-       position: relative;
-       top: 40px;
-       right: 30px;
-        text-decoration: none;
+        display: block;
+        margin-top: 50px;
+      font-size: 25px;
+        
     }
     .btn{
         color: aliceblue;
@@ -51,8 +46,6 @@
       padding-left: 10px;
     }
     .portfoilo-down span{
-    
-   
    
         padding-bottom: 200px;
         font-size: 29px;
@@ -90,8 +83,6 @@
     }
     p{
         color: #666666;
-     
-    
     }
     .side{
         padding-top: 50px;
@@ -103,38 +94,16 @@
     
     
     }
-    .Projects span{
-        color: #B16CEA;
-        
-    font-size: 22px;
-    font-weight: 700;
-    line-height: 22px;
-    letter-spacing: 4px;
-    text-align: left;
     
-    }
     .Projects h2{
-        padding-top: 20px;
-        color: #000;
+        
     font-size: 25px;
-    font-weight: 700;
     width: 300px;
     height: 100px;
    
     letter-spacing: 1px;
-   
-    
-    
     }
-    .Projects button{
-        width: 201px;
-    height: 58px;
-    background-color: #000000;
-    color: #FFFFFF;
-    font-size: 17px;
     
-    
-    }
     .Projects .right-side{
         padding-top: 20px;
     
@@ -151,26 +120,60 @@
 
      }
      .Blogs-section{
-        position: relative;
-        top: 100px;
-        flex-direction: column;
-        width: 440px;
-        height: 1637px;
+        
+       margin-top: 40px;
      }
+
      .right-blog{
         position: relative;
         top: 250px;
         right: 150px;
         
      }
-     .right-blog p{
+     .right-blog  p{
         color: #FFFFFF;
     
         font-size: 18px;
         font-weight: 700;
         line-height: 36px;
         letter-spacing: 0em;
+        width: 489px;
+       height: 72px;
 
      }
+     .right-blog-two p{
+       
+        color: #FFFFFF;
     
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+        width: 574px;
+        height: 72px;
+        
+        
+     }
+     .right-blog-two{
+        margin-left: -10px;
+        margin-top: 550px;
+     }
+     .right-blog-three{
+         margin-left: -10px;
+        margin-top: 820px;
+     }
+     .right-blog-three p{
+       
+        width: 307px;
+height: 36px;
+
+
+     }
+     .Product-Designer{
+        flex-direction: column;
+     }
+     .img-product{
+        
+        flex-direction: column;
+     }
 }
