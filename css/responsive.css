@@ -127,7 +127,7 @@
      .right-blog{
         position: relative;
         top: 250px;
-        right: 150px;
+        right: 160px;
         
      }
      .right-blog  p{
@@ -164,6 +164,10 @@
      }
      .right-blog-three p{
        
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
         width: 307px;
 height: 36px;
 
@@ -176,4 +180,33 @@ height: 36px;
         
         flex-direction: column;
      }
+     .blogs{
+        margin-top: -200px;
+     }
+     .right-blog-four{
+        margin-left: -10px;
+        margin-top: 1060px;
+     }
+     .right-blog-four p{
+        
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+        width: 325px;
+height: 36px;
+     }
+     
+     .right-blog-five{
+        margin-left: -10px;
+        margin-top: 1290px;
+     }
+     .right-blog-five p{
+        
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+     }
+     
 }
